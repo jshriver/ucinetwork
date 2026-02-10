@@ -1,0 +1,16 @@
+[package]
+name = "ucinetwork"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[[bin]]
+name = "uciserver"
+path = "src/uciserver.rs"
+
+[[bin]]
+name = "uciclient"
+path = "src/uciclient.rs"

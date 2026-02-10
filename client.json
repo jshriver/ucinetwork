@@ -1,0 +1,5 @@
+{
+    "server_address": "192.168.1.101:6242",
+    "logfile": "client.log",
+    "enable_logging": false
+}
