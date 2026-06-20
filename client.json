@@ -1,5 +1,6 @@
 {
-    "server_address": "192.168.1.101:6242",
+    "server_address": "172.19.60.88:6242",
+    "auth_key": "paste-key-here",
     "logfile": "client.log",
     "enable_logging": false
 }
